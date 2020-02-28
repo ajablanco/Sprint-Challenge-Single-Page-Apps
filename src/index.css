@@ -37,3 +37,19 @@ main {
 header h1 {
   text-align: center;
 }
+
+input#name{
+  border: 2px solid blue;
+  margin-left: 40%!important;
+  margin: 2%;
+  font-size: 1rem;
+}
+
+.headerImages {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.characterDiv {
+  margin-left: 19%;
+}
